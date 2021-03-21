@@ -24,8 +24,8 @@ long previousMillis = 0;
 long interval = 5000;
 
 //Server connect to WiFi Network
-const char *ssid = "AziSheNetwork2.4@unifi";
-const char *password = "0178822437"; 
+const char *ssid = "Your wifi ssid";
+const char *password = "your password"; 
 
 int count=0;
 
